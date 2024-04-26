@@ -1,2 +1,6 @@
 hello all
+<<<<<<< HEAD
 hello all
+=======
+hello everyone
+>>>>>>> master
